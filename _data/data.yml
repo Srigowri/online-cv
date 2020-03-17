@@ -15,7 +15,7 @@ sidebar:
     email: srigowri.venkatesha@gmail.com
     phone: 012 345 6789
     website:  #do not add http://
-    linkedin: SrigowriMV
+    linkedin: srigowri-m-v-292851a7
     github: Srigowri
     goodreads: 7613482-srigowri-m-v
     twitter: '@SrigowriMV'
@@ -58,13 +58,16 @@ education:
       time: 2013-2017
       details: |
           Engineering here
+          Achievements
           - Bullet point
           - Bullet point
       achievements: Put here
-    - university: Kumarans PU College, Bangalore
+    - degree: Pre-University
+      university: Kumarans PU College, Bangalore
       time: 2011-2013
       details: |
           PU 
+          Achievements
           - Bullet point
           - Bullet point
       achievements: Ok
