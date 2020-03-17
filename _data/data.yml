@@ -46,16 +46,6 @@ sidebar:
 
       - item: Cycling
         link:
-    
-    interests1:
-      - item: Statistics
-        link:
-
-      - item: Data Analysis and Interpretation
-        link:
-
-      - item: Computer Vision
-        link:
         
 career-profile:
     title: Career Objective
@@ -98,7 +88,7 @@ projects:
         #link: "#"
         #tagline: "A responsive website template designed to help web developers/designers market their services."
       - title: Evolution of man using Computer Graphics and Visualization
-      -	title: Stolen car register implementation using C language and the concept of Hash Table, Hash Functions. | 
+      -	title: Stolen car register implementation using C language and the concept of Hash Table, Hash Functions.
                Web application of the Stolen Car Register using HTML, CSS, Javascript, PHP and MySQL
      
 publications:
