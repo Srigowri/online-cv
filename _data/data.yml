@@ -53,21 +53,21 @@ career-profile:
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
 education:
-    - degree: B.E. in Computer Science and Engineering
+    - degree: BE in Computer Science and Engineering
       university: RNS Institute of Technology, Visvesvaraya Technological University
-      time: 2013 - 2017
+      time: 2013-2017
       details: |
-           Engineering here
+          Engineering here
           - Bullet point
           - Bullet point
-      achievements:
+      achievements: Put here
     - university: Kumarans PU College, Bangalore
-      time: 2011 - 2013
+      time: 2011-2013
       details: |
-           PU 
+          PU 
           - Bullet point
           - Bullet point
-      achievements:
+      achievements: Ok
       
 experiences:
     - role: Hyperledger Fabric Developer
@@ -132,3 +132,4 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+   
