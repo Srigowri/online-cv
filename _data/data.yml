@@ -83,11 +83,10 @@ projects:
       - title: Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
         #link: "#hook"
         #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
       - title: Book My Train- a web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
         tagline: "A responsive website template designed to help web developers/designers market their services."
       - title: Evolution of man using Computer Graphics and Visualization
-      -	title: Stolen car register implementation using C language and the concept of Hash Table, Hash Functions. Web application of the Stolen Car Register using HTML, CSS, Javascript, PHP and MySQL
+      -	title: Stolen car register implementation using C language and the concept of Hash Table, Hash Functions
      
 publications:
     title: Publications
