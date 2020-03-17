@@ -57,7 +57,7 @@ education:
     - degree: BE in Computer Science and Engineering
       university: RNS Institute of Technology, Visvesvaraya Technological University
       time: 2013-2017
-      details: 
+      details: | 
       - VTU 7th Rank in CSE and Gold Medal for Maximum total marks in 1st - 8th Semester
     - degree: Pre-University
       university: Kumarans PU College, Bangalore
@@ -80,10 +80,12 @@ projects:
     title: Projects
     intro: Following are the projects done in Undergraduation Programmee
     assignments:
-      - title: Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
+      - title: |
+       - Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
         #link: "#hook"
         #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - title: Book My Train- a web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
+      - title: |
+        - Book My Train- a web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
         tagline: "A responsive website template designed to help web developers/designers market their services."
      
 publications:
