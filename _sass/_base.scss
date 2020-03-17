@@ -191,7 +191,7 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-grey;
+        color: $text-color;
     }
     .company, .university {
         margin-bottom: 10px;
@@ -203,7 +203,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	color: $text-color;
     }
     .projects-section {
         .intro {
