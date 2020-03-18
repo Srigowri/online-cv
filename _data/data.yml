@@ -94,7 +94,7 @@ experiences:
       details: |
           - I have worked on Intent Recognition using ML Techniques and Named Entity Recognition using NLP technique for development of a Virtual Assistant
           - Worked as a backend developer and Data Engineer for an IoT project undertaken by Bosch in partnership with the Ceat tyre. My role here was to develop code to extract/parse, process and analyse sensor data. 
-          - Developed Smart contract using Hyperledger Fabric (Open source of blockchains) for the use cases of Request for Purchase and Request for Quotation in the context of Sap's ERP used by Bosch
+          - Developed Smart contract using Hyperledger Fabric (Open source of blockchains) for the use cases of Request for Purchase and Request for Quotation in the context of SAP's ERP used by Bosch
           - Developed Smart contract for Task Tracking using GoLang and Hyperledger Fabric
           - Analysis and Visualization of the internal tickets solved on a day-to-day basis 
 projects:
@@ -118,11 +118,11 @@ skills:
     title: Software Skills
     toolset:
       - name: "Languages"
-        level: Python, NodeJS, Golang
+        level: "Python, NodeJS, Golang"
       - name: "Visualization Tools"
         level: "Seaborn, Matplotlib, OpenCV - Python "
-      - name: "Platforms"
-        level: "Windows, Linux "
+      - name: "Open Source Platforms"
+        level: "Tensorflow, Hyperledger Fabric"
 
       - name: "Database"
         level: "NoSQL - DynamoDB, CouchDB & SQL - SAP HANA, MariaDB"
@@ -132,4 +132,4 @@ skills:
 
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-   
+    Modified by Srigowri
