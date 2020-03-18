@@ -1,0 +1,22 @@
+{% assign pursuits = site.data.data.sidebar.pursuits %}
+{% if pursuits %}
+<div class="pursuits-container container-block">
+
+  <h2 class="container-block-title">
+    Pursuits
+  </h2>
+
+  <ul class="list-unstyled pursuits-list">
+    {% for pursuit in pursuits %}
+
+      {% if pursuit.link %}
+      <li><a href="{{ pursuit.link }}">{{ pursuit.item }}</a></li>
+      {% else %}
+      <li>{{ pursuit.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//pursuits-->
+{% endif %}
