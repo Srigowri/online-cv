@@ -100,9 +100,9 @@ experiences:
 projects:
     title: Undergrad Projects
     assignments: 
-      - Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
-      - "Book My Train :A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL"
-      - Evolution of man using Computer Graphics and Visualization
+      - title:  Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
+      - title: "Book My Train :A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL"
+      - title: Evolution of man using Computer Graphics and Visualization
      
 publications:
     title: Publications
