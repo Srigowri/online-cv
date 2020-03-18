@@ -1,127 +1,137 @@
---- 
-career-profile: 
-  summary: |
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Srigowri
+    tagline: Python Programmer | Data Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: srigowri.venkatesha@gmail.com
+    phone: 012 345 6789
+    website:  #do not add http://
+    linkedin: srigowri-m-v-292851a7
+    github: Srigowri
+    goodreads: 7613482-srigowri-m-v
+    twitter: '@SrigowriMV'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #gitlab:
+    #bitbucket:
+    
+    languages:
+      - idiom: Kannada
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Intermediate
+        
+      - idiom: Sanskrit
+        level: Novice
+
+    potential:
+      - item: 
+        link:
+
+      - item: 
+        link:
+
+      - item: 
+        link:
+       
+      
+    skills:
+      - item: Seeking Knowledge
+      - item: Problem solving
+      - item: Discipline and Calculated Risks
+      - item: Wit and Dry Humour
+     
+    pursuits:
+      - item: Running
+        link:
+
+      - item: Table Tennis
+        link:
+
+      - item: Cycling
+        link:
+        
+      - item: Indian Policies and Politics
+        link:
+      
+    
+career-profile:
+    title: Career Objective
+    summary: |
       To grow by learning, to learn by doing. 
       Currently looking for opportunities in Computational Statistics, Computer Vision and developing ML Models.
-  title: "Career Objective"
-education: 
-  - 
-    degree: "BE in Computer Science and Engineering"
-    details: "- VTU 7th Rank in CSE and Gold Medal for Maximum total marks in 1st to 8th Semesters\n"
-    time: 2013-2017
-    university: "RNS Institute of Technology, Visvesvaraya Technological University"
-  - 
-    degree: Pre-University
-    details: |
-        - Secured a class rank of 8 and state rank of 74 in International Olympiad of Mathematics, 2012
-        - Secured a class rank of 5 and state rank of 39 in International Olympiad of Science, 2012
-    time: 2011-2013
-    university: "Kumarans PU College, Bangalore"
-experiences: 
-  - 
-    company: "Robert Bosch Engineering and Business Solutions Private Lld., Bangalore"
-    details: "- I have worked on Intent Recognition using ML Techniques and Named Entity Recognition using NLP technique for development of a Virtual Assistant\n\
-        - Worked as a backend developer and Data Engineer for an IoT project undertaken by Bosch in partnership with the Ceat tyre. My role here was to develop code to extract/parse, process and analyse sensor data. \n\
-        - Developed Smart contract using Hyperledger Fabric (Open source of blockchains) for the use cases of Request for Purchase and Request for Quotation in the context of Sap's ERP used by Bosch\n\
-        - Developed Smart contract for Task Tracking using GoLang and Hyperledger Fabric\n\
-        - Analysis and Visualization of the internal tickets solved on a day-to-day basis \n"
-    role: "Python programmer and Hyperledger fabric developer"
-    time: 2017-2019
-footer: "Theme designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
-projects: 
-  assignments: 
-    - 
-      title: "Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique"
-    - 
-      tagline: "A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL"
-      title: "Book My Train"
-  title: "Undergrad Projects"
-publications: 
-  intro: "List publications in this section.\n"
-  papers: 
-    - 
-      authors: Srigowri
-      conference: "Updating soon"
-      title: "Updating soon"
-  title: Publications
-sidebar: 
-  about: false
-  avatar: profile.png
-  education: false
-  email: srigowri.venkatesha@gmail.com
-  github: Srigowri
-  goodreads: 7613482-srigowri-m-v
-  languages: 
-    - 
-      idiom: Kannada
-      level: Native
-    - 
-      idiom: English
-      level: Professional
-    - 
-      idiom: Hindi
-      level: Intermediate
-    - 
-      idiom: Sanskrit
-      level: Novice
-  linkedin: srigowri-m-v-292851a7
-  name: Srigowri
-  phone: "012 345 6789"
-  potential: 
-    - 
-      item: ~
-      link: ~
-    - 
-      item: ~
-      link: ~
-    - 
-      item: ~
-      link: ~
-  pursuits: 
-    - 
-      item: Running
-      link: ~
-    - 
-      item: "Table Tennis"
-      link: ~
-    - 
-      item: Cycling
-      link: ~
-    - 
-      item: "Indian Policies and Politics"
-      link: ~
-  skills: 
-    - 
-      item: "Seeking Knowledge"
-    - 
-      item: "Problem solving"
-    - 
-      item: "Discipline and Calculated Risks"
-    - 
-      item: "Wit and Dry Humour"
-  tagline: "Python Programmer | Data Engineer"
-  twitter: "@SrigowriMV"
-  website: ~
-skills: 
-  title: "Software Skills"
-  toolset: 
-    - 
-      name: ""
-    - Languages
-    - Python
-    - NodeJS
-    - Golang
-    - 
-      name: ""
-    - "Visualization Tools"
-    - "Seaborn, Matplotlib"
-    - "OpenCV - Python"
-    - 
-      name: ""
-    - "Platforms Windows, Linux"
-    - 
-      name: ""
-    - "Database NoSQL DynamoDB, CouchDB SQL   SAP HANA, MariaDB"
-    - 
-      name: ""
-    - "Web services AWS (Lambda Function, Glue, EC2, Dynamodb and Maria DB) GCP Firebase"
+
+education:
+    - degree: BE in Computer Science and Engineering
+      university: RNS Institute of Technology, Visvesvaraya Technological University
+      time: 2013-2017
+      details: |
+       - VTU 7th Rank in CSE and Gold Medal for Maximum total marks in 1st to 8th Semesters
+    - degree: Pre-University
+      university: Kumarans PU College, Bangalore
+      time: 2011-2013
+      details: |
+       - Secured a class rank of 8 and state rank of 74 in International Olympiad of Mathematics, 2012
+       - Secured a class rank of 5 and state rank of 39 in International Olympiad of Science, 2012
+      
+experiences:
+    - role: Python programmer and Hyperledger fabric developer
+      time: 2017-2019
+      company: Robert Bosch Engineering and Business Solutions Private Lld., Bangalore
+      details: |
+          - I have worked on Intent Recognition using ML Techniques and Named Entity Recognition using NLP technique for development of a Virtual Assistant
+          - Worked as a backend developer and Data Engineer for an IoT project undertaken by Bosch in partnership with the Ceat tyre. My role here was to develop code to extract/parse, process and analyse sensor data. 
+          - Developed Smart contract using Hyperledger Fabric (Open source of blockchains) for the use cases of Request for Purchase and Request for Quotation in the context of Sap's ERP used by Bosch
+          - Developed Smart contract for Task Tracking using GoLang and Hyperledger Fabric
+          - Analysis and Visualization of the internal tickets solved on a day-to-day basis 
+projects:
+    title: Undergrad Projects
+    assignments: |
+      - Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
+      - Book My Train - A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
+      - Evolution of man using Computer Graphics and Visualization
+     
+publications:
+    title: Publications
+    intro: |
+      List publications in this section.
+    papers:
+      - title: Updating soon
+        #link: "#"
+        authors: Srigowri
+        conference: Updating soon
+
+skills:
+    title: Software Skills
+    toolset:
+      - name: Languages
+        Python |
+        NodeJS |
+        Golang |
+      - name: Visualization Tools 
+        Seaborn, Matplotlib 
+        OpenCV - Python 
+      - name: Platforms
+        Windows, Linux 
+      - name: Database 
+        NoSQL DynamoDB, CouchDB 
+        SQL   SAP HANA, MariaDB 
+      - name: Web services 
+        AWS (Lambda Function, Glue, EC2, Dynamodb and Maria DB) 
+        GCP Firebase 
+footer: >
+    Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+   
