@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Srigowri
     tagline: Python Programmer | Data Engineer
-    avatar: resume_photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: resume_photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: srigowri.venkatesha@gmail.com
