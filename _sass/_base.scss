@@ -151,6 +151,24 @@ p {
             }
         }
     }
+    .pursuit-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+    .potential-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
 }
 
 .main-wrapper {
