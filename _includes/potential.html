@@ -1,22 +1,22 @@
-{% assign potential = site.data.data.sidebar.potential %}
-{% if potential %}
-<div class="potential-container container-block">
+{% assign potentials = site.data.data.sidebar.potentials %}
+{% if potentials %}
+<div class="potentials-container container-block">
 
   <h2 class="container-block-title">
     Hobbies 
   </h2>
 
-  <ul class="list-unstyled potential-list">
-    {% for val in potential %}
+  <ul class="list-unstyled potentials-list">
+    {% for potential in potentials %}
 
-      {% if val.link %}
-      <li><a href="{{ val.link }}">{{ val.item }}</a></li>
+      {% if potential.link %}
+      <li><a href="{{ potential.link }}">{{ potential.item }}</a></li>
       {% else %}
-      <li>{{ val.item }}</li>
+      <li>{{ potential.item }}</li>
       {% endif %}
 
     {% endfor %}
   </ul>
 
-</div><!--//potential-->
+</div><!--//potentials-->
 {% endif %}
