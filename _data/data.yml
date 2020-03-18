@@ -99,9 +99,9 @@ experiences:
           - Analysis and Visualization of the internal tickets solved on a day-to-day basis 
 projects:
     title: Undergrad Projects
-    assignments: |
+    assignments: 
       - Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
-      - Book My Train - A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
+      - "Book My Train :A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL"
       - Evolution of man using Computer Graphics and Visualization
      
 publications:
@@ -117,21 +117,25 @@ publications:
 skills:
     title: Software Skills
     toolset:
-      - name: Languages
-        Python
+      - name: "Languages
+        Python 
         NodeJS
-        Golang
-      - name: Visualization Tools 
+        Golang"
+      - name: "
+        Visualization Tools 
         Seaborn, Matplotlib 
-        OpenCV - Python 
-      - name: Platforms
-        Windows, Linux 
-      - name: Database 
+        OpenCV - Python "
+      - name: "Platforms
+        Windows, Linux "
+
+      - name: "        Database 
         NoSQL DynamoDB, CouchDB 
-        SQL   SAP HANA, MariaDB 
-      - name: Web services 
+        SQL   SAP HANA, MariaDB"
+ 
+      - name: "        Web services 
         AWS (Lambda Function, Glue, EC2, Dynamodb and Maria DB) 
-        GCP Firebase 
+        GCP Firebase "
+
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
    
