@@ -118,26 +118,18 @@ skills:
     title: Software Skills
     toolset:
       - name: "Languages"
-        level: 
-        - Python
-        - NodeJS
-        - Golang
+        level: Python, NodeJS, Golang
       - name: "Visualization Tools"
-        level: 
-        - Seaborn, Matplotlib
-        - "OpenCV - Python "
+        level: "Seaborn, Matplotlib, OpenCV - Python "
       - name: "Platforms"
         level: "Windows, Linux "
 
       - name: "Database"
-        level: 
-        - "NoSQL - DynamoDB"
-        - "CouchDB & SQL - SAP HANA, MariaDB"
+        level: "NoSQL - DynamoDB, CouchDB & SQL - SAP HANA, MariaDB"
  
       - name: " Web services"
-        level: 
-        - "AWS (Lambda Function, Glue, EC2, Dynamodb and Maria DB)"
-        - "GCP Firebase "
+        level: "AWS (Lambda Function, Glue, EC2), GCP Firebase"
+
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
    
