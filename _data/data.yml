@@ -118,9 +118,9 @@ skills:
     title: Software Skills
     toolset:
       - name: Languages
-        Python |
-        NodeJS |
-        Golang |
+        Python
+        NodeJS
+        Golang
       - name: Visualization Tools 
         Seaborn, Matplotlib 
         OpenCV - Python 
