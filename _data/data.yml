@@ -38,20 +38,15 @@ sidebar:
         level: Novice
 
     potentials:
-      - item: Coding
+      - item: Software Development
         link:
-
-      - item: 
+      - item: Problem solving
         link:
-
-      - item: 
-        link:
-       
       
     lifeskills:
       - item: Seeking Knowledge
-      - item: Problem solving
-      - item: Discipline and Calculated Risks
+      - item: Disciplined
+      - item: Calculated Risks
       - item: Wit and Dry Humour
      
     pursuits:
