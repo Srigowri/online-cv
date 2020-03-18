@@ -37,7 +37,24 @@ sidebar:
       - idiom: Sanskrit
         level: Novice
 
-    interests:
+    potential:
+      - item: 
+        link:
+
+      - item: 
+        link:
+
+      - item: 
+        link:
+       
+      
+    skills:
+      - item: Seeking Knowledge
+      - item: Problem solving
+      - item: Discipline and Calculated Risks
+      - item: Wit and Dry Humour
+     
+    pursuits:
       - item: Running
         link:
 
@@ -47,6 +64,10 @@ sidebar:
       - item: Cycling
         link:
         
+      - item: Indian Policies and Politics
+        link:
+      
+    
 career-profile:
     title: Career Objective
     summary: |
@@ -77,11 +98,11 @@ experiences:
           - Developed Smart contract for Task Tracking using GoLang and Hyperledger Fabric
           - Analysis and Visualization of the internal tickets solved on a day-to-day basis 
 projects:
-    title: Projects
-    intro: Following are the projects done in Undergraduation Programmee
+    title: Undergrad Projects
     assignments:
-      - title: Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
-      - title:  Book My Train, A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
+      - title:  Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
+      - title:  Book My Train
+        tagline: A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL
      
 publications:
     title: Publications
@@ -94,11 +115,23 @@ publications:
         conference: Updating soon
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Software Skills
     toolset:
-      - name: Python
-        level: 98%
-
+      - name: Languages 
+        - Python
+        - NodeJS
+        - Golang
+      - name: Visualization Tools
+        - Seaborn, Matplotlib
+        - OpenCV - Python
+      - name: Platforms
+        - Windows, Linux
+      - name: Database
+        - NoSQL DynamoDB, CouchDB
+        - SQL   SAP HANA, MariaDB
+      - name: Web services
+        - AWS (Lambda Function, Glue, EC2, Dynamodb and Maria DB)
+        - GCP Firebase
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
    
