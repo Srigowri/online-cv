@@ -106,12 +106,12 @@ publications:
     papers:
       - title: “A Low Cost Networking Approach with a Remote Centralized Control of Rural IT Education”
         #link: "#"
-        authors: Srigowri M. V,  Shreevyas H.M and P. A. Vijaya
-        conference: CCUBE-2013, RNSIT,Bangalore, 27-28 Dec 2013
+        authors: "Srigowri M. V,  Shreevyas H.M and P. A. Vijaya"
+        conference: "CCUBE-2013, RNSIT,Bangalore, 27-28 Dec 2013"
       - title: "Application of Machine Learning Techniques for Extraction of Soil Features for Pattern Classification"
         #link: "#"
-        authors: Srigowri M V, Dr.Bhavanishankar K, Soujanya R Bhat, Sampoorna K
-        conference: International Journal of Advances in Engineering and Management (IJAEM),ISSN: 2395-5252, Volume 2, Issue 1, pp: 892-898, July 2020
+        authors: "Srigowri M V, Dr.Bhavanishankar K, Soujanya R Bhat and Sampoorna K"
+        conference: "International Journal of Advances in Engineering and Management (IJAEM),ISSN: 2395-5252, Volume 2, Issue 1, pp: 892-898, July 2020"
 skills:
     title: Software Skills
     toolset:
