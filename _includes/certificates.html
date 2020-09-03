@@ -42,7 +42,7 @@
 
       {% if card.details %}
       <div class="details">
-        {{ card.details | markdownify }}
+        <a href="{{ card.details }}" target="_blank">{{ card.details | markdownify }}</a>
       </div><!--//details-->
       {% endif %}
 
