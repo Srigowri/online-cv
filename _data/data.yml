@@ -135,7 +135,7 @@ skills:
         level: "AWS (Lambda Function, Glue, EC2), GCP Firebase"
 
 certificates:
-    - degree: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
+    - degree: "Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital"
       university: Duke University
       details: |
        - "https://coursera.org/share/0141baab2bedf726c6a9ca6cd7028cd5"
