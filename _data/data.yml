@@ -139,12 +139,18 @@ certificates:
       university: Duke University
       details: |
        - "https://coursera.org/share/0141baab2bedf726c6a9ca6cd7028cd5"
-    - degree: Google IT Support Professional Certificate
+    - degree: "Google IT Support Professional Certificate: Technical Support Fundamentals"
       university: Authorized by Google offered through Coursera
       details: |
        - "https://coursera.org/share/4a77835d0b2af17526e9b8c1db3fcf36"
+    - degree: "Google IT Support Professional Certificate:The Bits and Bytes of Computer Networking"
+      university: Authorized by Google offered through Coursera
+      details: |
        - "https://coursera.org/share/516137fd03d5dcdf472bbde276929b7f"
-       - "https://coursera.org/share/a9367a17dab9af352f368ea5575f8ddb"
+    - degree: "Google IT Support Professional Certificate:Operating Systems and You: Becoming a Power User"
+      university: Authorized by Google offered through Coursera
+      details: |
+       - "https://coursera.org/share/a9367a17dab9af352f368ea5575f8ddb"       
 footer: >
     Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
     Customized by Srigowri
