@@ -71,11 +71,17 @@ career-profile:
       Currently looking for opportunities in Computational Statistics, Computer Vision and developing ML Models.
 
 education:
+    - degree: "M.Tech in Computer Science and Engineering"
+      university: Indian Institue of Technology Jodhpur
+      time: 2020-2022
+      details: |
+       - Currently doing I year M.Tech 
     - degree: "B.E. in Computer Science and Engineering"
       university: RNS Institute of Technology, Visvesvaraya Technological University
       time: 2013-2017
       details: |
-       - VTU 7th Rank in CSE and Gold Medal for Maximum total marks in 1st to 8th Semesters
+       - VTU 7th Rank in B.E (CSE)
+       - Gold Medal for Maximum total marks in 1st to 8th Semesters
     - degree: Pre-University
       university: Kumarans PU College, Bangalore
       time: 2011-2013
@@ -128,6 +134,17 @@ skills:
       - name: " Web services"
         level: "AWS (Lambda Function, Glue, EC2), GCP Firebase"
 
+certificates:
+    - degree: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
+      university: Duke University
+      details: |
+       - "https://coursera.org/share/0141baab2bedf726c6a9ca6cd7028cd5"
+    - degree: Google IT Support Professional Certificate
+      university: Authorized by Google offered through Coursera
+      details: |
+       - "https://coursera.org/share/4a77835d0b2af17526e9b8c1db3fcf36"
+       - "https://coursera.org/share/516137fd03d5dcdf472bbde276929b7f"
+       - "https://coursera.org/share/a9367a17dab9af352f368ea5575f8ddb"
 footer: >
     Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
     Customized by Srigowri
