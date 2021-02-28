@@ -31,8 +31,8 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Hindi
-        level: Intermediate
+#       - idiom: Hindi
+#         level: Intermediate
         
       - idiom: Sanskrit
         level: Novice
@@ -125,7 +125,7 @@ skills:
       - name: "Visualization Tools"
         level: "Seaborn, Matplotlib, OpenCV - Python "
       - name: "Open Source Platforms"
-        level: "Tensorflow, Hyperledger Fabric"
+        level: "Pytorch, Hyperledger Fabric"
 
       - name: "Database"
         level: "NoSQL - DynamoDB, CouchDB & SQL - SAP HANA, MariaDB"
