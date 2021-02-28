@@ -45,7 +45,7 @@ sidebar:
       - item: Data to insights
         link:
     lifeskills:
-      - item: Seeking Knowledge
+      - item: Experimental seeker
       - item: Disciplined
       - item: Calculated Risks
       - item: Wit and Dry Humour
@@ -91,7 +91,7 @@ education:
 experiences:
     - role: Python programmer and Hyperledger fabric developer
       time: 2017-2019
-      company: Robert Bosch Engineering and Business Solutions Private Lld., Bangalore
+      company: Robert Bosch Engineering and Business Solutions Private Ltd., Bangalore
       details: |
           - I have worked on Intent Recognition using ML Techniques and Named Entity Recognition using NLP technique for development of a Virtual Assistant
           - Worked as a backend developer and Data Engineer for an IoT project undertaken by Bosch in partnership with the Ceat tyre. My role here was to develop code to extract/parse, process and analyse sensor data. 
