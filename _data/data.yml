@@ -128,10 +128,10 @@ skills:
       - name: "Visualization Tools"
         level: "Matplotlib, OpenCV - Python "
       - name: "Open Source Softwares"
-        level: "Pytorch, Hyperledger Fabric, RISC V"
+        level: "Pytorch, Hyperledger Fabric, RISC V, Git, Docker"
 
       - name: "Database"
-        level: "NoSQL - DynamoDB, CouchDB & SQL - SAP HANA, MariaDB"
+        level: "NoSQL - DynamoDB & SQL - MySQL, SAP HANA, MariaDB"
  
       - name: " Web services"
         level: "AWS (Serverless functions, Glue, EC2)"
