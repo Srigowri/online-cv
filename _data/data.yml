@@ -68,7 +68,7 @@ career-profile:
     title: Career Objective
     summary: |
       To grow by learning, to learn by doing. 
-      Currently looking for opportunities in Computational Statistics, Computer Vision and developing ML Models.
+      Currently looking for opportunities in Designing and developing backend services at scale and MLOps
 
 education:
     - degree: "M.Tech in Computer Science and Engineering"
@@ -99,10 +99,13 @@ experiences:
           - Developed Smart contract for Task Tracking using GoLang and Hyperledger Fabric
           - Analysis and Visualization of the internal tickets solved on a day-to-day basis 
 projects:
-    title: Undergrad Projects
+    title: Projects
     assignments: 
+      - title:  Clustering of Graph Embeddings and establishing Power Law distribution in Graph Networks 
+      - title:  Implementation of Louvain Community Detection Algorithm for GPUs
+      - title:  Underwater Image Enhancement using Adversarial Networks
       - title:  Prediction of Crop based on Soil Images using Computer vision and Machine Learning technique
-      - title: "Book My Train :A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL"
+#       - title: "Book My Train :A web application for online booking of train tickets using HTML, CSS, Javascript, Java servlet, JSP and MySQL"
       - title: Evolution of man using Computer Graphics and Visualization
      
 publications:
@@ -121,17 +124,17 @@ skills:
     title: Software Skills
     toolset:
       - name: "Languages"
-        level: "Python, NodeJS, Golang"
+        level: "Python, Golang"
       - name: "Visualization Tools"
-        level: "Seaborn, Matplotlib, OpenCV - Python "
+        level: "Matplotlib, OpenCV - Python "
       - name: "Open Source Softwares"
-        level: "Pytorch, Hyperledger Fabric"
+        level: "Pytorch, Hyperledger Fabric, RISC V"
 
       - name: "Database"
         level: "NoSQL - DynamoDB, CouchDB & SQL - SAP HANA, MariaDB"
  
       - name: " Web services"
-        level: "AWS (Lambda Function, Glue, EC2), GCP Firebase"
+        level: "AWS (Serverless functions, Glue, EC2)"
 
 certificates:
     - degree: "Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital"
