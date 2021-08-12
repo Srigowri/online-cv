@@ -131,10 +131,10 @@ skills:
         level: "Pytorch, Hyperledger Fabric, RISC V, Git, Docker"
 
       - name: "Database"
-        level: "NoSQL - DynamoDB & SQL - MySQL, SAP HANA, MariaDB"
+        level: "NoSQL-DynamoDB & SQL-MySQL,SAP HANA,MariaDB"
  
       - name: " Web services"
-        level: "AWS (Serverless functions, Glue, EC2)"
+        level: "AWS (Serverless functions, Glue, EC2, S3)"
 
 certificates:
     - degree: "Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital"
