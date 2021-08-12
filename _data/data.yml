@@ -68,7 +68,7 @@ career-profile:
     title: Career Objective
     summary: |
       To grow by learning, to learn by doing. 
-      Currently looking for opportunities in Designing and developing backend services at scale and MLOps
+      Currently looking for opportunities in Designing and developing backend services at scale and MLOps.
 
 education:
     - degree: "M.Tech in Computer Science and Engineering"
@@ -93,11 +93,11 @@ experiences:
       time: 2017-2019
       company: Robert Bosch Engineering and Business Solutions Private Ltd., Bangalore
       details: |
-          - I have worked on Intent Recognition using ML Techniques and Named Entity Recognition using NLP technique for development of a Virtual Assistant
-          - Worked as a backend developer and Data Engineer for an IoT project undertaken by Bosch in partnership with the Ceat tyre. My role here was to develop code to extract/parse, process and analyse sensor data. 
-          - Developed Smart contract using Hyperledger Fabric (Open source of blockchains) for the use cases of Request for Purchase and Request for Quotation in the context of SAP's ERP used by Bosch
-          - Developed Smart contract for Task Tracking using GoLang and Hyperledger Fabric
+          - Worked as a backend developer and Data Engineer for an IoT project undertaken by Bosch in partnership with the Ceat tyre
+          - Developed and designed multi-cloud(AWS/SAP) deployment models and softwares for IoT enabled intelligent products for global customers
+          - Developed Smart contract using Hyperledger Fabric (Open source of blockchains) for the use cases of Request for Purchase and Request for Quotation
           - Analysis and Visualization of the internal tickets solved on a day-to-day basis 
+          
 projects:
     title: Projects
     assignments: 
