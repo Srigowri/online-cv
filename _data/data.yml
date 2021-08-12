@@ -34,8 +34,8 @@ sidebar:
 #       - idiom: Hindi
 #         level: Intermediate
         
-      - idiom: Sanskrit
-        level: Novice
+#       - idiom: Sanskrit
+#         level: Novice
 
     potentials:
       - item: Software Development
